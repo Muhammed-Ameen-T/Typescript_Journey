@@ -1,1 +1,1 @@
-# Typescritp Journey
+# Typescript Journey
